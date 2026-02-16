@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Metales",
+    "slug": "metales-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://via.placeholder.com/1024/FFD700/000000?text=Metales",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "https://via.placeholder.com/1280x720/0f0f1a/FFD700?text=Metales",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f0f1a"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "foregroundImage": "https://via.placeholder.com/1024/FFD700/000000?text=M" } },
+    "web": { "favicon": "https://via.placeholder.com/256/FFD700/000000?text=M" }
+  }
+}
